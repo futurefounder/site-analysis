@@ -1,6 +1,6 @@
 # NABU Webseitenanalyse
 
-Dieses Repository enthält Python-Scripts zur Analyse der Webseitenstruktur von nabu.de. Die Analyse wurde im Rahmen eines Universitätsprojekts zur Informationsarchitektur durchgeführt.
+Dieses Repository enthält Python-Scripts zur Analyse der Webseitenstruktur von nabu.de. Die Analyse wurde im Rahmen eines Universitätsprojekts im Modul „Informationsarchitektur“ durchgeführt.
 
 ## Scripts und ihre Funktionen
 
@@ -61,7 +61,7 @@ Dieses Repository enthält Python-Scripts zur Analyse der Webseitenstruktur von 
 
 ## Ergebnisse
 
-Die Analyse ergab, dass etwa 89% der Inhalte auf nabu.de sich mit dem Thema Vögel beschäftigen, was die thematische Schwerpunktsetzung der Website verdeutlicht.
+Die Analyse ergab, dass etwa 89% der Inhalte auf nabu.de sich mit dem Thema Vögel beschäftigen, was für die weiteren Analysen der Webseite hoch relevant ist.
 
 ## Voraussetzungen
 
